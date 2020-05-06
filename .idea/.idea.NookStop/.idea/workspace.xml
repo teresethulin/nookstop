@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aba976cf-543c-4e9c-9bc2-caf426e60da2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/NookStop/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NookStop/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NookStop/ABD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NookStop/SpecialGoodsItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NookStop/NookShoppingCatalog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NookStop/IslandResident.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NookStop/User.cs" />
+        <option value="$PROJECT_DIR$/NookStop/GoodsItem.cs" />
+        <option value="$PROJECT_DIR$/NookStop/Bank.cs" />
+        <option value="$PROJECT_DIR$/NookStop/Options.cs" />
+        <option value="$PROJECT_DIR$/NookStop/Inventory.cs" />
+        <option value="$PROJECT_DIR$/NookStop/IslandResident.cs" />
+        <option value="$PROJECT_DIR$/NookStop/ABD.cs" />
+        <option value="$PROJECT_DIR$/NookStop/ABDMenu.cs" />
+        <option value="$PROJECT_DIR$/NookStop/NookShoppingCatalog.cs" />
+        <option value="$PROJECT_DIR$/NookStop/Program.cs" />
+        <option value="$PROJECT_DIR$/NookStop/Menu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bUgV7YJku4g6bspBY1ydKUJUPA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NookStop" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NookStop/NookStop.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aba976cf-543c-4e9c-9bc2-caf426e60da2" name="Default Changelist" comment="" />
+      <created>1588692107500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588692107500</updated>
+      <workItem from="1588692111044" duration="7391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="198" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588692295625">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="455" y="198" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588692295625" />
+    <state width="1638" height="184" key="GridCell.Tab.0.bottom" timestamp="1588767095596">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="184" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588767095596" />
+    <state width="1638" height="184" key="GridCell.Tab.0.center" timestamp="1588767095595">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="184" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588767095595" />
+    <state width="1638" height="184" key="GridCell.Tab.0.left" timestamp="1588767095594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="184" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588767095594" />
+    <state width="1638" height="184" key="GridCell.Tab.0.right" timestamp="1588767095595">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="184" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588767095595" />
+    <state x="503" y="231" key="search.everywhere.popup" timestamp="1588692276157">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="503" y="231" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1588692276157" />
+  </component>
+</project>

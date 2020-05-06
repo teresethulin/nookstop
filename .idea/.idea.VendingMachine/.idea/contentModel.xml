@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="NookStop" t="IncludeRecursive">
+        <e p="Bank.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GoodsItem.cs" t="Include" />
+        <e p="Inventory.cs" t="Include" />
+        <e p="NookStop.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="NookStop.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Options.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VendingMachine.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_VendingMachine.-2101208142.00" t="ExcludeRecursive" />
+  </component>
+</project>
